@@ -13,6 +13,8 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 -->
 
+<h1>⚠️ Not maintained</h1>
+
 Home Assistant custom component for viewing cameras connected to a MIPC account.
 
 Site : http://www.mipcm.com/download/
